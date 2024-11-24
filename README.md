@@ -2,5 +2,6 @@
 <p>v.1.3
 <p>by qiaelel(2024)</p>
 
+Навигация:
 <a href="/historydatesapp/historydatesapp.html">на главную</a>
-<a href="/historydatesapp/zelenoa.html">about</a>
+<a href="/historydatesapp/zelenka.html">about + changelog</a>
